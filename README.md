@@ -6,8 +6,8 @@ A frontend web developer with more than 2 years of professional experience worki
 
 Skills: REACT / JS / Typescript / HTML / CSS
 
+
+
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadHH&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on this page. 
-
-
-
-
