@@ -4,15 +4,9 @@
 
 A frontend web developer with more than 2 years of professional experience working for international companies on enterprise level projects using front end cutting edge technologies that mainly includes React, JS, Typescript, storybook, HTML, CSS, SASS and many other  libraries that aims at presenting clients with a convenient and pleasurable experience.
 
-Skills: REACT / JS / Typescript / HTML / CSS
 
-
-
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadHH&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently working on this page. 
 <p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=MohammadHH&count_private=true&show_icons=true&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadHH&count_private=true&show_icons=true&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -32,3 +26,5 @@ Skills: REACT / JS / Typescript / HTML / CSS
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
 </p>
+<p></p>
+- 🔭 I’m currently working on this page. 
