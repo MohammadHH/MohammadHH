@@ -1,13 +1,9 @@
-### Hi there 👋, Mohammad Hasan
+### Hi there 👋, I'm Mohammad Hamarsheh [![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2FMohammadHH.github.io)](https://MohammadHH.github.io)
+
 #### Frontend Web Developer
 ![Frontend Web Developer](https://i.ibb.co/Q6p9FbK/Mohammad-Hasan.png)
-
-A frontend web developer with more than 2 years of professional experience working for international companies on enterprise level projects using front end cutting edge technologies that mainly includes React, JS, Typescript, storybook, HTML, CSS, SASS and many other  libraries that aims at presenting clients with a convenient and pleasurable experience.
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadHH&count_private=true&show_icons=true&show_owner=true"/>
-  <p>
+### Skills & Tools
+ <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -25,6 +21,7 @@ A frontend web developer with more than 2 years of professional experience worki
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
-</p>
-<p></p>
-- 🔭 I’m currently working on this page. 
+  
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadHH&count_private=true&show_icons=true&show_owner=true"/>
+
