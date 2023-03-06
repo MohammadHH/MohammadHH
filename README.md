@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mohammad Hamarsheh [![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2FMohammadHH.netlify.app)](https://MohammadHH.netlify.app)
+### Hi there 👋, I'm Mohammad Hamarsheh [![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2FMohammadHH.netlify.app)](https://mohammad-hamarsheh.com)
 
 #### Frontend Engineer
 ### Skills & Tools
